@@ -1,0 +1,19 @@
+{
+  "name": "safeguard-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "serve": "serve -s build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.257.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1",
+    "serve": "^14.2.0"
+  }
+}
